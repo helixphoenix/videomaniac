@@ -1,0 +1,8 @@
+{
+    "AREPL.pythonOptions": [
+
+        "-u"
+    ],
+    "AREPL.pythonPath": "/usr/local/bin/python3.12",
+    "python.defaultInterpreterPath": "/usr/local/bin/python3.12"
+}

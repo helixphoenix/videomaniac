@@ -1,0 +1,13 @@
+{% extends "layout.html" %}
+{% block content %}
+<div class="container-narrow">
+  <h1 class="mt-5">Upload Video</h1>
+    <br/>
+    <p>Click on the "Choose File" button to upload a file:</p>
+    <form action="/action_page.php">
+        <input type="file" id="myFile" name="filename" accept="video/*">
+        <input type="submit">
+      </form>
+</div>
+{% endblock %}
+

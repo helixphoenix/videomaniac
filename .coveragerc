@@ -1,0 +1,6 @@
+[run]
+source = videomaniac
+omit = 
+    tests/*
+    autoapp.py
+
